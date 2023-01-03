@@ -6,7 +6,7 @@ Controlling the default tty / framebuffer on a raspberry pi zero w.
 
 When you power on a raspberry pi, after a lot of status messages etc scroll through the pi presents a login prompt:
 
-![This screen is `tty1`](README\login-screen-tty1.png)
+![This screen is `tty1`](README/login-screen-tty1.png)
 
 This screen is `tty1`. You can find it in the `/dev/tty1` device on the filesystem.
 
